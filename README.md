@@ -13,15 +13,17 @@ Projeto 2 da disciplina Ciência de dados
   - Conclusão do Projeto
   - Descrição das variáveis
   - Código das Regressões
-  - Analise da importancia das varivaies para o target
+  - Analise da importancia das variavéis para o target
 
 - Felipe Lemos:
   - Código das Regressões
   - Analise Exploratória e filtragem do dataset
   - Analise teórica da regressão
+  - Gráficos Scatter (Seaborn) e Mapa de calor (Heatmap)
 
 - Lourenco de Paula: 
   - Código das Regressões
+  - Descrição das variáveis e colunas 
   - Conclusão de Gráficos
   - Descrição da teoria de Random Forest
 
